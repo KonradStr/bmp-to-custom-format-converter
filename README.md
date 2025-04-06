@@ -51,6 +51,8 @@ The header of `.z25` files is used to identify the file and to read metadata abo
 
 ### Image before conversion
 
+**Note:** This is a small image (320x200 pixels), so that any conversion will be highly noticeable
+
 ![Original](examples/org.png)
 
 ### RGB565, dithering with Bayer matrix, lossless compression, Type 1 prediction
